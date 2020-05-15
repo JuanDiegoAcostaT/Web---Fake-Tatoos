@@ -7,15 +7,15 @@ Foundation, to see my qualities with this library.
 
 <img src="https://i.imgur.com/aulYIhg.png" />
 
--Html
+- Html
 
--Javascript
+- Javascript
 
--Foundation
+- Foundation
 
--Css
+- Css
 
--Jquery
+- Jquery
 
 
 <img src="https://i.imgur.com/bXNmTZh.png" />
